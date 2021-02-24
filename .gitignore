@@ -2,3 +2,4 @@
 price_adjustment/htmlcov
 .coverage
 htmlcov
+.idea
